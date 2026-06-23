@@ -5,7 +5,7 @@
 ![Vue3](https://img.shields.io/badge/Vue3-技术-red)
 ![MySQL](https://img.shields.io/badge/MySQL-数据库-red)
 ![答辩PPT](https://img.shields.io/badge/答辩PPT-349套-green)
-![精品项目](https://img.shields.io/badge/精品项目-3个-orange)
+![精品项目](https://img.shields.io/badge/精品项目-6个-orange)
 
 <p align="center">
   <a href="https://bishe.xiaoqiangku.com?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=hero-banner">
@@ -19,6 +19,12 @@
   <a href="https://bishe.xiaoqiangku.com/project/course-homework-management-system?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=hero-thumb-course-homework-management-system"><img src="https://xiaoqiangku-all.oss-cn-beijing.aliyuncs.com/20260621/178205396142248048/封面.png" alt="基于 Spring Boot + Vue3 的课程作业管理系统" width="30%" /></a>
   <a href="https://bishe.xiaoqiangku.com/project/college-enrollment-audit-system?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=hero-thumb-college-enrollment-audit-system"><img src="https://xiaoqiangku-all.oss-cn-beijing.aliyuncs.com/20260621/178205457838066979/封面.png" alt="基于 Spring Boot + Vue3 大学生入学审核系统" width="30%" /></a>
   <a href="https://bishe.xiaoqiangku.com/project/monthly-employee-performance-management-system?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=hero-thumb-monthly-employee-performance-management-system"><img src="https://xiaoqiangku-all.oss-cn-beijing.aliyuncs.com/20260621/178205443476040195/封面.png" alt="基于 Spring Boot + Vue3 的月度员工绩效考核管理系统" width="30%" /></a>
+</p>
+
+<p align="center">
+  <a href="https://bishe.xiaoqiangku.com/project/student-psychological-counseling-assessment-system?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=hero-thumb-student-psychological-counseling-assessment-system"><img src="https://xiaoqiangku-all.oss-cn-beijing.aliyuncs.com/20260623/178222244602536521/封面.png" alt="基于 Spring Boot + Vue3 的学生心理咨询评估系统" width="30%" /></a>
+  <a href="https://bishe.xiaoqiangku.com/project/campus-club-management-system?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=hero-thumb-campus-club-management-system"><img src="https://xiaoqiangku-all.oss-cn-beijing.aliyuncs.com/20260623/178222386421389247/封面.png" alt="基于 Spring Boot + Vue3 的校园社团管理系统" width="30%" /></a>
+  <a href="https://bishe.xiaoqiangku.com/project/family-doctor-appointment-system?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=hero-thumb-family-doctor-appointment-system"><img src="https://xiaoqiangku-all.oss-cn-beijing.aliyuncs.com/20260623/178222570746282829/封面.png" alt="基于 Spring Boot + Vue3 的家庭医生在线预约系统" width="30%" /></a>
 </p>
 
 ## 简介（点击 Star 获取持续更新）
@@ -121,7 +127,7 @@
 
 ## 精品源码
 
-以下 **3** 个项目已发布。[浏览全部 →](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=projects-hub)
+以下 **6** 个项目已发布。[浏览全部 →](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=projects-hub)
 
 ### 【精选】基于 Spring Boot + Vue3 的课程作业管理系统
 
@@ -152,6 +158,36 @@
 > 本系统面向企业人力资源管理场景，覆盖管理员与员工双端，实现部门岗位档案维护、绩效指标配置、月度绩效考核录入与发布、绩效统计汇总及公告通知等完整业务闭环。管理员负责全公司考核数据与统计生成，员工仅查看本人已发布的考核结果与适用指标，适合展示多…
 
 **[👉 查看详情 · 在线演示 · 交付清单](https://bishe.xiaoqiangku.com/project/monthly-employee-performance-management-system?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=project-monthly-employee-performance-management-system)**
+
+### 【精选】基于 Spring Boot + Vue3 的学生心理咨询评估系统
+
+[![基于 Spring Boot + Vue3 的学生心理咨询评估系统](https://xiaoqiangku-all.oss-cn-beijing.aliyuncs.com/20260623/178222244602536521/封面.png)](https://bishe.xiaoqiangku.com/project/student-psychological-counseling-assessment-system?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=project-student-psychological-counseling-assessment-system)
+
+*心理量表在线评估 · 咨询预约与排班 · 咨询记录归档 · 含源码与 SQL*
+
+> 本系统面向高校学生心理健康服务场景，覆盖管理员、咨询师、学生三端，实现心理评估量表配置与在线作答、咨询师排班与预约确认、咨询过程记录归档，以及文章资讯与系统公告等内容运营。业务链路从自助评估延伸到预约咨询与记录留存，适合展示多角色数据隔离与状态流转的计算机…
+
+**[👉 查看详情 · 在线演示 · 交付清单](https://bishe.xiaoqiangku.com/project/student-psychological-counseling-assessment-system?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=project-student-psychological-counseling-assessment-system)**
+
+### 【精选】基于 Spring Boot + Vue3 的校园社团管理系统
+
+[![基于 Spring Boot + Vue3 的校园社团管理系统](https://xiaoqiangku-all.oss-cn-beijing.aliyuncs.com/20260623/178222386421389247/封面.png)](https://bishe.xiaoqiangku.com/project/campus-club-management-system?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=project-campus-club-management-system)
+
+*社团入社审批 · 活动在线报名 · 社长工作台 · 含源码与 SQL*
+
+> 本系统面向高校社团日常运营场景，覆盖管理员端与用户端两类角色；用户端区分普通成员与社长权限，社长登录后额外开放「社长工作台」，仅管理本人担任社长的社团数据。系统实现社团档案维护、入社申请与多级审批、成员管理、活动发布与在线报名、资讯发布、活动评论及系统公告等完整闭环，适合展示双端鉴权、审批…
+
+**[👉 查看详情 · 在线演示 · 交付清单](https://bishe.xiaoqiangku.com/project/campus-club-management-system?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=project-campus-club-management-system)**
+
+### 【精选】基于 Spring Boot + Vue3 的家庭医生在线预约系统
+
+[![基于 Spring Boot + Vue3 的家庭医生在线预约系统](https://xiaoqiangku-all.oss-cn-beijing.aliyuncs.com/20260623/178222570746282829/封面.png)](https://bishe.xiaoqiangku.com/project/family-doctor-appointment-system?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=project-family-doctor-appointment-system)
+
+*医生排班预约 · 在线沟通与电子处方 · AI 健康咨询 · 含源码与 SQL*
+
+> 本系统面向家庭医生服务与在线医疗场景，覆盖管理员、医生、患者三端，实现医生档案与排班管理、患者查找医生并预约挂号、就诊后在线沟通、电子处方开具、药品订单支付、就诊评价及 AI 健康咨询等完整流程。适合展示多角色权限隔离、预约状态流转与医疗业务协作的计算机类毕设课题。
+
+**[👉 查看详情 · 在线演示 · 交付清单](https://bishe.xiaoqiangku.com/project/family-doctor-appointment-system?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=project-family-doctor-appointment-system)**
 
 📦 **[浏览更多毕设项目 →](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=projects-more)**
 
@@ -211,7 +247,7 @@
 
 | 入口 | 链接 |
 |------|------|
-| 精品源码 (3+) | [进入](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=footer-projects) |
+| 精品源码 (6) | [进入](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=footer-projects) |
 | 答辩 PPT (349 套) | [进入](https://bishe.xiaoqiangku.com/ppt-templates?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=footer-ppt) |
 | 定制服务 | [进入](https://bishe.xiaoqiangku.com/custom?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=footer-custom) |
 | 关于我们 | [进入](https://bishe.xiaoqiangku.com/about?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=footer-about) |
