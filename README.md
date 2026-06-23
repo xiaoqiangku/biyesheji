@@ -1,4 +1,4 @@
-# 小强库计算机毕业设计指南
+# 计算机毕业设计指南
 
 ![计算机毕业设计](https://img.shields.io/badge/计算机毕业设计-小强库-blue)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-技术-red)
@@ -12,9 +12,17 @@
 
 👉 在线站点：[https://bishe.xiaoqiangku.com](https://bishe.xiaoqiangku.com)（GitHub 访问较慢时，建议直接打开官网浏览完整功能与截图）
 
-[官网](https://bishe.xiaoqiangku.com) &nbsp;| &nbsp; [GitHub 仓库](https://github.com/xiaoqiangku/biyesheji)
+[官网](https://bishe.xiaoqiangku.com) &nbsp;| &nbsp; [精品源码](https://bishe.xiaoqiangku.com/projects) &nbsp;| &nbsp; [答辩 PPT](https://bishe.xiaoqiangku.com/ppt-templates) &nbsp;| &nbsp; [定制服务](https://bishe.xiaoqiangku.com/custom) &nbsp;| &nbsp; [GitHub 仓库](https://github.com/xiaoqiangku/biyesheji)
 
 ---
+
+我们下面分享的选题均为近年流行的毕设方向，均包含 **源码 + 数据库 + 部署文档 + 界面截图 + 远程部署协助 + 售后答疑**。官网提供 **在线演示站**，功能透明可验，所见即所得。如需获取源码或咨询毕设相关问题，请添加客服交流，**微信：qzkfqg**，或者扫描下方微信：
+
+![](assets/wechat-qr.png)
+
+💥 另外本站整理了丰富的免费源码、答辩 PPT 模板、部署说明等资源，可进入 [精品源码中心](https://bishe.xiaoqiangku.com/projects) 与 [答辩 PPT 模板中心](https://bishe.xiaoqiangku.com/ppt-templates) 免费浏览下载。
+
+💥 如需远程部署、环境配置或定制开发，欢迎添加微信 **qzkfqg** 或 [点击了解定制与部署服务](https://bishe.xiaoqiangku.com/custom)。也可通过 [QQ：1151483791](https://wpa.qq.com/msgrd?v=3&uin=1151483791&site=qq&menu=yes) 联系咨询。
 
 本仓库收录 **毕设精品源码** 与 **答辩 PPT 模板** 索引，每个精品项目均包含 **源码 + MySQL 脚本 + 功能说明 + 界面截图 + 远程部署协助**。
 
@@ -400,9 +408,11 @@
 
 ```
 biyesheji/
-├── README.md      # 本文件（可由 gen_readme.py 从 SQL 数据重新生成）
-├── gen_readme.py  # README 生成脚本
-└── 参考.md        # 排版参考文档
+├── README.md           # 本文件（可由 gen_readme.py 从 SQL 数据重新生成）
+├── gen_readme.py       # README 生成脚本
+├── assets/
+│   └── wechat-qr.png   # 客服微信二维码
+└── 参考.md             # 排版参考文档
 ```
 
 ---
