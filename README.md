@@ -47,56 +47,6 @@
 
 💥 免费浏览 [精品源码](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=hero-projects) · [答辩 PPT 349 套](https://bishe.xiaoqiangku.com/ppt-templates?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=hero-ppt) · [定制开发](https://bishe.xiaoqiangku.com/custom?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=hero-custom) · QQ [1151483791](https://wpa.qq.com/msgrd?v=3&uin=1151483791&site=qq&menu=yes)
 
-## 同学评价
-
-> **李同学**（软件工程 · 某二本）：按导师要求加了库存预警模块，答辩演示很顺利，代码注释清楚，自己也能讲明白业务逻辑。
-
-> **王同学**（计算机科学 · 某一本）：从选题到部署都有文档跟着做，微信开发者工具一遍跑通，答辩老师问的数据库设计也能对上 ER 图。
-
-> **张同学**（物联网工程）：定制了 MQTT 接入和大屏展示，交付按时，答辩前还帮忙梳理了可能被问到的三个技术点。
-
-## 常见问题
-
-<details><summary><strong>交付内容包含哪些？</strong></summary>
-
-通常包含完整源码、数据库脚本、部署说明、功能说明文档；部分项目含论文框架、答辩 PPT 模板或演示视频，具体以项目详情页「交付内容」为准。
-
-👉 了解更多：[精品源码](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=faq-projects) · [定制咨询](https://bishe.xiaoqiangku.com/custom?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=faq-custom)
-
-</details>
-
-<details><summary><strong>可以按导师要求改功能或换技术栈吗？</strong></summary>
-
-可以。可在现有案例上二次开发，也可按你的专业方向从零定制。提交咨询时说明导师要求、答辩时间和预算，我们会给出可行方案。
-
-👉 了解更多：[精品源码](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=faq-projects) · [定制咨询](https://bishe.xiaoqiangku.com/custom?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=faq-custom)
-
-</details>
-
-<details><summary><strong>答辩前能提供演示环境吗？</strong></summary>
-
-支持。我们提供本地/云服务器部署指导，关键节点可远程协助演示；部分项目标注「答辩支持」的会额外提供常见问题梳理。
-
-👉 了解更多：[精品源码](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=faq-projects) · [定制咨询](https://bishe.xiaoqiangku.com/custom?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=faq-custom)
-
-</details>
-
-<details><summary><strong>咨询后多久能收到回复？</strong></summary>
-
-工作时间内一般 24 小时内回复；急单可在咨询内容中注明答辩日期，我们会优先处理。
-
-👉 了解更多：[精品源码](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=faq-projects) · [定制咨询](https://bishe.xiaoqiangku.com/custom?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=faq-custom)
-
-</details>
-
-<details><summary><strong>源码是否原创、能否通过查重？</strong></summary>
-
-项目为独立开发交付，代码结构清晰、注释完整，适合作为毕设学习与答辩演示；论文部分需结合你的学校要求自行撰写，我们可提供框架与 ER 图等辅助材料。
-
-👉 了解更多：[精品源码](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=faq-projects) · [定制咨询](https://bishe.xiaoqiangku.com/custom?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=faq-custom)
-
-</details>
-
 ## 标准交付
 
 | 交付项 | 说明 |
