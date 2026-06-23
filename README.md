@@ -163,7 +163,7 @@
 - [【动态】中国风背景论文答辩模板](https://bishe.xiaoqiangku.com/ppt-templates/ppt-1782138978504?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=ppt-ppt-1782138978504)
 - [【复古风】毕业论文答辩模板](https://bishe.xiaoqiangku.com/ppt-templates/ppt-1782178612952?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=ppt-ppt-1782178612952)
 - [【动态】稳重复古论文答辩通用型指导模板](https://bishe.xiaoqiangku.com/ppt-templates/ppt-1782138888265?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=ppt-ppt-1782138888265)
-- [【黑板风】创意十足粉笔手绘论文答辩PPT（附教程）金额：24.99元](https://bishe.xiaoqiangku.com/ppt-templates/ppt2499?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=ppt-ppt2499)
+- [【黑板风】创意十足粉笔手绘论文答辩PPT（附教程）](https://bishe.xiaoqiangku.com/ppt-templates/ppt2499?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=ppt-ppt2499)
 - [【极简设计】朦胧质感雅黑年中报告答辩通用模板](https://bishe.xiaoqiangku.com/ppt-templates/ppt-1782178616435?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=ppt-ppt-1782178616435)
 - [【动态】蓝色框架完整论文答辩开题报告PPT模板](https://bishe.xiaoqiangku.com/ppt-templates/ppt-2?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=ppt-ppt-2)
 - [【动态】ios极致清新论文答辩模板](https://bishe.xiaoqiangku.com/ppt-templates/ios?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=ppt-ios)
