@@ -12,7 +12,7 @@
 
 👉 在线站点：[https://bishe.xiaoqiangku.com](https://bishe.xiaoqiangku.com)（GitHub 访问较慢时，建议直接打开官网浏览完整功能与截图）
 
-[官网](https://bishe.xiaoqiangku.com) &nbsp;| &nbsp; [精品源码](https://bishe.xiaoqiangku.com/projects) &nbsp;| &nbsp; [答辩 PPT](https://bishe.xiaoqiangku.com/ppt-templates) &nbsp;| &nbsp; [定制服务](https://bishe.xiaoqiangku.com/custom) &nbsp;| &nbsp; [GitHub 仓库](https://github.com/xiaoqiangku/biyesheji)
+[官网](https://bishe.xiaoqiangku.com) &nbsp;| &nbsp; [精品源码](https://bishe.xiaoqiangku.com/projects) &nbsp;| &nbsp; [答辩 PPT](https://bishe.xiaoqiangku.com/ppt-templates) &nbsp;| &nbsp; [定制服务](https://bishe.xiaoqiangku.com/custom) &nbsp;| &nbsp; [CSDN](http://blog.csdn.net/shaotianqiang) &nbsp;| &nbsp; [GitHub 仓库](https://github.com/xiaoqiangku/biyesheji)
 
 ---
 
