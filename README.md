@@ -1,4 +1,4 @@
-# 计算机毕业设计指南
+# 小强库计算机毕业设计指南
 
 ![计算机毕业设计](https://img.shields.io/badge/计算机毕业设计-小强库-blue)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-技术-red)
