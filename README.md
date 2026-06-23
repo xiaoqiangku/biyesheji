@@ -47,34 +47,6 @@
 
 💥 免费浏览 [精品源码](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=hero-projects) · [答辩 PPT 349 套](https://bishe.xiaoqiangku.com/ppt-templates?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=hero-ppt) · [定制开发](https://bishe.xiaoqiangku.com/custom?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=hero-custom) · QQ [1151483791](https://wpa.qq.com/msgrd?v=3&uin=1151483791&site=qq&menu=yes)
 
-## 标准交付
-
-| 交付项 | 说明 |
-|--------|------|
-| 完整源码 | 前后端/小程序分层清晰，可直接运行 |
-| 数据库脚本 | 建表 SQL + 示例数据，附 ER 说明 |
-| 部署文档 | 环境要求、启动步骤与常见问题 |
-| 功能说明 | 模块清单与演示路径，便于答辩讲解 |
-| 答辩辅助 | 演示辅导、问题预判（按项目标注） |
-| 售后答疑 | 交付后一定周期内技术答疑支持 |
-
-## 我们的理念
-
-专注计算机毕业设计项目展示与交付。更多见 [关于我们](https://bishe.xiaoqiangku.com/about?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=about)。
-
-毕业设计是从校园走向职场的第一次完整项目实践。好的选题应兼顾 **技术深度**、**业务完整度** 和 **答辩展示效果**。
-
-### 服务宗旨：服务到底
-
-交付源码不是终点，顺利通过答辩才是。从选题评估、功能对接到环境部署，从演示辅导到答辩查漏补缺——**接单有始，服务有终**。
-
-## 经验必读
-
-- 尽早 [选题与规划](https://bishe.xiaoqiangku.com/custom?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=tips-custom)，预留 [答辩 PPT](https://bishe.xiaoqiangku.com/ppt-templates?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=tips-ppt) 时间
-- 选用成品前，在 [精品源码中心](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=tips-projects) 确认技术栈与交付内容
-- 部署核对 JDK、Node、MySQL 版本；报错见下方「常见错误」
-- PPT 建议 [官网在线预览](https://bishe.xiaoqiangku.com/ppt-templates?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=tips-ppt-preview) 后再选用
-
 ## 精品源码
 
 以下 **6** 个项目已发布。[浏览全部 →](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=projects-hub)
@@ -140,6 +112,34 @@
 **[👉 查看详情 · 在线演示 · 交付清单](https://bishe.xiaoqiangku.com/project/family-doctor-appointment-system?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=project-family-doctor-appointment-system)**
 
 📦 **[浏览更多毕设项目 →](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=projects-more)**
+
+## 标准交付
+
+| 交付项 | 说明 |
+|--------|------|
+| 完整源码 | 前后端/小程序分层清晰，可直接运行 |
+| 数据库脚本 | 建表 SQL + 示例数据，附 ER 说明 |
+| 部署文档 | 环境要求、启动步骤与常见问题 |
+| 功能说明 | 模块清单与演示路径，便于答辩讲解 |
+| 答辩辅助 | 演示辅导、问题预判（按项目标注） |
+| 售后答疑 | 交付后一定周期内技术答疑支持 |
+
+## 我们的理念
+
+专注计算机毕业设计项目展示与交付。更多见 [关于我们](https://bishe.xiaoqiangku.com/about?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=about)。
+
+毕业设计是从校园走向职场的第一次完整项目实践。好的选题应兼顾 **技术深度**、**业务完整度** 和 **答辩展示效果**。
+
+### 服务宗旨：服务到底
+
+交付源码不是终点，顺利通过答辩才是。从选题评估、功能对接到环境部署，从演示辅导到答辩查漏补缺——**接单有始，服务有终**。
+
+## 经验必读
+
+- 尽早 [选题与规划](https://bishe.xiaoqiangku.com/custom?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=tips-custom)，预留 [答辩 PPT](https://bishe.xiaoqiangku.com/ppt-templates?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=tips-ppt) 时间
+- 选用成品前，在 [精品源码中心](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=tips-projects) 确认技术栈与交付内容
+- 部署核对 JDK、Node、MySQL 版本；报错见下方「常见错误」
+- PPT 建议 [官网在线预览](https://bishe.xiaoqiangku.com/ppt-templates?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=tips-ppt-preview) 后再选用
 
 ## 答辩 PPT 模板
 
