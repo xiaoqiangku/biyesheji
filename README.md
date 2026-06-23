@@ -4,61 +4,124 @@
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-技术-red)
 ![Vue3](https://img.shields.io/badge/Vue3-技术-red)
 ![MySQL](https://img.shields.io/badge/MySQL-数据库-red)
-![答辩PPT](https://img.shields.io/badge/答辩PPT-资源-green)
+![答辩PPT](https://img.shields.io/badge/答辩PPT-349套-green)
+![精品项目](https://img.shields.io/badge/精品项目-3个-orange)
+
+<p align="center">
+  <a href="https://bishe.xiaoqiangku.com?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=hero-banner">
+    <img src="https://xiaoqiangku-all.oss-cn-beijing.aliyuncs.com/20260621/178205396142248048/封面.png" alt="小强库计算机毕业设计" width="720" />
+  </a>
+</p>
+
+<p align="center"><strong>成品也能改</strong> · 精选毕设源码 · 答辩 PPT · 定制开发 · <a href="https://bishe.xiaoqiangku.com?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=hero-slogan">立即访问官网 →</a></p>
+
+<p align="center">
+  <a href="https://bishe.xiaoqiangku.com/project/course-homework-management-system?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=hero-thumb-course-homework-management-system"><img src="https://xiaoqiangku-all.oss-cn-beijing.aliyuncs.com/20260621/178205396142248048/封面.png" alt="基于 Spring Boot + Vue3 的课程作业管理系统" width="30%" /></a>
+  <a href="https://bishe.xiaoqiangku.com/project/college-enrollment-audit-system?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=hero-thumb-college-enrollment-audit-system"><img src="https://xiaoqiangku-all.oss-cn-beijing.aliyuncs.com/20260621/178205457838066979/封面.png" alt="基于 Spring Boot + Vue3 大学生入学审核系统" width="30%" /></a>
+  <a href="https://bishe.xiaoqiangku.com/project/monthly-employee-performance-management-system?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=hero-thumb-monthly-employee-performance-management-system"><img src="https://xiaoqiangku-all.oss-cn-beijing.aliyuncs.com/20260621/178205443476040195/封面.png" alt="基于 Spring Boot + Vue3 的月度员工绩效考核管理系统" width="30%" /></a>
+</p>
 
 ## 简介（点击 Star 获取持续更新）
 
-🎓 **[小强库计算机毕业设计](https://bishe.xiaoqiangku.com?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=intro-brand)** 面向计算机及相关专业毕业生，提供精品毕设源码、答辩 PPT 模板、部署文档与答疑支持。每个项目均含 **界面截图、功能说明、交付清单**，官网支持 **在线预览与演示**。
+🎓 **[小强库计算机毕业设计](https://bishe.xiaoqiangku.com?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=intro-brand)** — 成品也能改。面向计算机及相关专业毕业生，提供精品毕设源码、答辩 PPT、部署文档与答辩支持。每个项目含 **界面截图 · 功能说明 · 交付清单**，官网支持 **在线预览**。
 
-👉 **推荐直接访问官网：** [https://bishe.xiaoqiangku.com](https://bishe.xiaoqiangku.com?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=intro-home)（GitHub 图片加载较慢时，官网浏览体验更好）
+👉 **推荐直接访问官网：** [https://bishe.xiaoqiangku.com](https://bishe.xiaoqiangku.com?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=intro-home)（GitHub 图片加载较慢，官网体验更佳）
 
 [🌐 官网](https://bishe.xiaoqiangku.com?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=nav-home) &nbsp;|&nbsp; [📦 精品源码](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=nav-projects) &nbsp;|&nbsp; [📊 答辩 PPT](https://bishe.xiaoqiangku.com/ppt-templates?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=nav-ppt) &nbsp;|&nbsp; [✨ 定制服务](https://bishe.xiaoqiangku.com/custom?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=nav-custom) &nbsp;|&nbsp; [ℹ️ 关于我们](https://bishe.xiaoqiangku.com/about?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=nav-about)
 
 [CSDN 博客](http://blog.csdn.net/shaotianqiang) &nbsp;|&nbsp; [GitHub 仓库](https://github.com/xiaoqiangku/biyesheji)
 
+**热门技术：** [Spring Boot](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=tag-Spring%20Boot) · [Vue3](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=tag-Vue3) · [MySQL](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=tag-MySQL) · [小程序](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=tag-%E5%B0%8F%E7%A8%8B%E5%BA%8F) · [管理系统](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=tag-%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F) · [前后端分离](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=tag-%E5%89%8D%E5%90%8E%E7%AB%AF%E5%88%86%E7%A6%BB)
+
 ---
 
-我们下面分享的选题均为近年流行的毕设方向，均包含 **源码 + 数据库 + 部署文档 + 界面截图 + 远程部署协助 + 售后答疑**。官网提供 **[在线演示站](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=hero-demo)**，功能透明可验，所见即所得。如需获取源码或咨询毕设相关问题，请添加客服交流，**微信：qzkfqg**，或者扫描下方微信：
+我们分享的选题均为近年流行方向，均包含 **源码 + 数据库 + 部署文档 + 界面截图 + 远程部署协助 + 售后答疑**。官网 **[在线演示站](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=hero-demo)** 功能透明可验。获取源码或咨询毕设问题，请添加 **微信：qzkfqg**，或扫描下方二维码：
 
-![](assets/wechat-qr.png)
+<p align="center"><img src="assets/wechat-qr.png" alt="微信二维码 qzkfqg" width="240" /></p>
 
-💥 另外本站整理了丰富的免费源码、答辩 PPT 模板、部署说明等资源，可进入 [精品源码中心](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=hero-projects) 与 [答辩 PPT 模板中心](https://bishe.xiaoqiangku.com/ppt-templates?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=hero-ppt) 免费浏览下载。
+💥 免费浏览 [精品源码](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=hero-projects) · [答辩 PPT 349 套](https://bishe.xiaoqiangku.com/ppt-templates?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=hero-ppt) · [定制开发](https://bishe.xiaoqiangku.com/custom?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=hero-custom) · QQ [1151483791](https://wpa.qq.com/msgrd?v=3&uin=1151483791&site=qq&menu=yes)
 
-💥 如需远程部署、环境配置或定制开发，欢迎添加微信 **qzkfqg** 或 [点击了解定制与部署服务](https://bishe.xiaoqiangku.com/custom?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=hero-custom)。也可通过 [QQ：1151483791](https://wpa.qq.com/msgrd?v=3&uin=1151483791&site=qq&menu=yes) 联系咨询。
+## 同学评价
 
-> 👉 **访问官网：** [https://bishe.xiaoqiangku.com](https://bishe.xiaoqiangku.com?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=cta-home) · [精品源码](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=cta-projects) · [答辩 PPT](https://bishe.xiaoqiangku.com/ppt-templates?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=cta-ppt) · [定制咨询](https://bishe.xiaoqiangku.com/custom?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=cta-custom) · 微信 **qzkfqg**
+> **李同学**（软件工程 · 某二本）：按导师要求加了库存预警模块，答辩演示很顺利，代码注释清楚，自己也能讲明白业务逻辑。
+
+> **王同学**（计算机科学 · 某一本）：从选题到部署都有文档跟着做，微信开发者工具一遍跑通，答辩老师问的数据库设计也能对上 ER 图。
+
+> **张同学**（物联网工程）：定制了 MQTT 接入和大屏展示，交付按时，答辩前还帮忙梳理了可能被问到的三个技术点。
+
+## 常见问题
+
+<details><summary><strong>交付内容包含哪些？</strong></summary>
+
+通常包含完整源码、数据库脚本、部署说明、功能说明文档；部分项目含论文框架、答辩 PPT 模板或演示视频，具体以项目详情页「交付内容」为准。
+
+👉 了解更多：[精品源码](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=faq-projects) · [定制咨询](https://bishe.xiaoqiangku.com/custom?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=faq-custom)
+
+</details>
+
+<details><summary><strong>可以按导师要求改功能或换技术栈吗？</strong></summary>
+
+可以。可在现有案例上二次开发，也可按你的专业方向从零定制。提交咨询时说明导师要求、答辩时间和预算，我们会给出可行方案。
+
+👉 了解更多：[精品源码](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=faq-projects) · [定制咨询](https://bishe.xiaoqiangku.com/custom?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=faq-custom)
+
+</details>
+
+<details><summary><strong>答辩前能提供演示环境吗？</strong></summary>
+
+支持。我们提供本地/云服务器部署指导，关键节点可远程协助演示；部分项目标注「答辩支持」的会额外提供常见问题梳理。
+
+👉 了解更多：[精品源码](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=faq-projects) · [定制咨询](https://bishe.xiaoqiangku.com/custom?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=faq-custom)
+
+</details>
+
+<details><summary><strong>咨询后多久能收到回复？</strong></summary>
+
+工作时间内一般 24 小时内回复；急单可在咨询内容中注明答辩日期，我们会优先处理。
+
+👉 了解更多：[精品源码](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=faq-projects) · [定制咨询](https://bishe.xiaoqiangku.com/custom?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=faq-custom)
+
+</details>
+
+<details><summary><strong>源码是否原创、能否通过查重？</strong></summary>
+
+项目为独立开发交付，代码结构清晰、注释完整，适合作为毕设学习与答辩演示；论文部分需结合你的学校要求自行撰写，我们可提供框架与 ER 图等辅助材料。
+
+👉 了解更多：[精品源码](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=faq-projects) · [定制咨询](https://bishe.xiaoqiangku.com/custom?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=faq-custom)
+
+</details>
+
+## 标准交付
+
+| 交付项 | 说明 |
+|--------|------|
+| 完整源码 | 前后端/小程序分层清晰，可直接运行 |
+| 数据库脚本 | 建表 SQL + 示例数据，附 ER 说明 |
+| 部署文档 | 环境要求、启动步骤与常见问题 |
+| 功能说明 | 模块清单与演示路径，便于答辩讲解 |
+| 答辩辅助 | 演示辅导、问题预判（按项目标注） |
+| 售后答疑 | 交付后一定周期内技术答疑支持 |
 
 ## 我们的理念
 
-专注计算机毕业设计项目展示与交付，提供源码、文档、部署指导与答辩支持，助力每一位学子顺利完成毕设。更多介绍见 [关于我们](https://bishe.xiaoqiangku.com/about?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=about)
+专注计算机毕业设计项目展示与交付。更多见 [关于我们](https://bishe.xiaoqiangku.com/about?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=about)。
 
-毕业设计不仅是学业的一道关卡，更是从校园走向职场的第一次完整项目实践。我们相信，一个好的毕设选题应该兼顾 **技术深度**、**业务完整度** 和 **答辩展示效果**。
-
-小强库计算机毕业设计汇聚网站、小程序、管理系统等多种类型的精选案例，每个项目均提供清晰的功能说明与交付清单。无论选用成品案例还是按需定制，我们都希望帮你把选题、开发、答辩的每一环都走得踏实、从容。
+毕业设计是从校园走向职场的第一次完整项目实践。好的选题应兼顾 **技术深度**、**业务完整度** 和 **答辩展示效果**。
 
 ### 服务宗旨：服务到底
 
-对我们而言，交付源码不是终点，顺利通过答辩才是。从选题评估、功能对接到环境部署，从演示辅导到答辩前的查漏补缺，我们会一直陪在你身边，直到你的毕设真正落地、答辩顺利完成——**接单有始，服务有终**。
-
-**服务内容**
-
-- 精选项目案例展示与检索
-- 完整源码与数据库脚本交付
-- 部署文档与运行环境指导
-- 论文框架与撰写建议
-- 答辩演示辅导与问题预判
-- 按需定制开发与模块扩展
+交付源码不是终点，顺利通过答辩才是。从选题评估、功能对接到环境部署，从演示辅导到答辩查漏补缺——**接单有始，服务有终**。
 
 ## 经验必读
 
-- 毕业设计宜尽早 [选题与规划](https://bishe.xiaoqiangku.com/custom?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=tips-custom)，预留论文与 [答辩 PPT](https://bishe.xiaoqiangku.com/ppt-templates?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=tips-ppt) 时间
-- 选用成品前，先在 [精品源码中心](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=tips-projects) 确认技术栈、数据库版本与交付内容是否匹配
-- 部署时优先核对 JDK、Node、MySQL 版本；常见报错可查阅下方「常见错误」
-- 答辩 PPT 建议上 [官网在线预览](https://bishe.xiaoqiangku.com/ppt-templates?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=tips-ppt-preview)，选用框架完整、风格匹配的模板后再替换内容
+- 尽早 [选题与规划](https://bishe.xiaoqiangku.com/custom?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=tips-custom)，预留 [答辩 PPT](https://bishe.xiaoqiangku.com/ppt-templates?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=tips-ppt) 时间
+- 选用成品前，在 [精品源码中心](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=tips-projects) 确认技术栈与交付内容
+- 部署核对 JDK、Node、MySQL 版本；报错见下方「常见错误」
+- PPT 建议 [官网在线预览](https://bishe.xiaoqiangku.com/ppt-templates?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=tips-ppt-preview) 后再选用
 
 ## 精品源码
 
-以下 **3** 个项目均已发布，含 **源码 + 数据库 + 部署文档 + 界面截图 + 远程协助**。点击封面或标题进入详情页，或前往 [精品源码中心](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=projects-hub) 浏览全部。
+以下 **3** 个项目已发布。[浏览全部 →](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=projects-hub)
 
 ### 【精选】基于 Spring Boot + Vue3 的课程作业管理系统
 
@@ -92,25 +155,23 @@
 
 📦 **[浏览更多毕设项目 →](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=projects-more)**
 
-> 👉 **访问官网：** [https://bishe.xiaoqiangku.com](https://bishe.xiaoqiangku.com?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=cta-home) · [精品源码](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=cta-projects) · [答辩 PPT](https://bishe.xiaoqiangku.com/ppt-templates?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=cta-ppt) · [定制咨询](https://bishe.xiaoqiangku.com/custom?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=cta-custom) · 微信 **qzkfqg**
-
 ## 答辩 PPT 模板
 
-本站共 **349** 套模板，涵盖学术风、黑板风、中国风、简约清新等多种风格。以下为热门 **30** 套，支持官网 **在线预览**；完整列表请访问 [答辩 PPT 模板中心](https://bishe.xiaoqiangku.com/ppt-templates?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=ppt-hub)。
+共 **349** 套，涵盖学术风、黑板风、中国风、简约清新等风格。以下为热门 **30** 套（支持在线预览）。[查看全部 →](https://bishe.xiaoqiangku.com/ppt-templates?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=ppt-all)
 
 - [【动态模板】苹果IOS星空通用论文答辩模板](https://bishe.xiaoqiangku.com/ppt-templates/ios-1?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=ppt-ios-1)
 - [【动态】中国风背景论文答辩模板](https://bishe.xiaoqiangku.com/ppt-templates/ppt-1782138978504?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=ppt-ppt-1782138978504)
 - [【复古风】毕业论文答辩模板](https://bishe.xiaoqiangku.com/ppt-templates/ppt-1782178612952?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=ppt-ppt-1782178612952)
 - [【动态】稳重复古论文答辩通用型指导模板](https://bishe.xiaoqiangku.com/ppt-templates/ppt-1782138888265?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=ppt-ppt-1782138888265)
 - [【黑板风】创意十足粉笔手绘论文答辩PPT（附教程）金额：24.99元](https://bishe.xiaoqiangku.com/ppt-templates/ppt2499?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=ppt-ppt2499)
-- [【动态】蓝色框架完整论文答辩开题报告PPT模板](https://bishe.xiaoqiangku.com/ppt-templates/ppt-2?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=ppt-ppt-2)
 - [【极简设计】朦胧质感雅黑年中报告答辩通用模板](https://bishe.xiaoqiangku.com/ppt-templates/ppt-1782178616435?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=ppt-ppt-1782178616435)
+- [【动态】蓝色框架完整论文答辩开题报告PPT模板](https://bishe.xiaoqiangku.com/ppt-templates/ppt-2?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=ppt-ppt-2)
 - [【动态】ios极致清新论文答辩模板](https://bishe.xiaoqiangku.com/ppt-templates/ios?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=ppt-ios)
 - [【简洁水彩】框架完整毕业论文通用模版(赠图标）](https://bishe.xiaoqiangku.com/ppt-templates/ppt-1782178617974?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=ppt-ppt-1782178617974)
 - [【创意加分】清新毕业生论文答辩通用模板](https://bishe.xiaoqiangku.com/ppt-templates/ppt-1782138322207?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=ppt-ppt-1782138322207)
 - [【精品动画开头】线条花纹创意设计极致雅黑答辩模板](https://bishe.xiaoqiangku.com/ppt-templates/ppt-1782178619315?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=ppt-ppt-1782178619315)
-- [【扁平学术】定制级别框架完整毕业论文答辩模版(赠图](https://bishe.xiaoqiangku.com/ppt-templates/ppt-1782138207578?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=ppt-ppt-1782138207578)
 - [【科技星光】2016通用报告模版(赠图标）](https://bishe.xiaoqiangku.com/ppt-templates/2016?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=ppt-2016)
+- [【扁平学术】定制级别框架完整毕业论文答辩模版(赠图](https://bishe.xiaoqiangku.com/ppt-templates/ppt-1782138207578?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=ppt-ppt-1782138207578)
 - [【毕业论文】蓝色大气答辩PPT模板](https://bishe.xiaoqiangku.com/ppt-templates/ppt?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=ppt-ppt)
 - [【框架完整】毕业答辩PPT模板__](https://bishe.xiaoqiangku.com/ppt-templates/ppt-3?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=ppt-ppt-3)
 - [【毕业答辩】炫彩墨迹创意答辩通用报告模板](https://bishe.xiaoqiangku.com/ppt-templates/ppt-1782138054083?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=ppt-ppt-1782138054083)
@@ -129,32 +190,30 @@
 - [【论文答辩】学术报告毕业答辩通用PPT模板B-08](https://bishe.xiaoqiangku.com/ppt-templates/pptb-08?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=ppt-pptb-08)
 - [【毕业】炫彩创意毕业答辩通用模板](https://bishe.xiaoqiangku.com/ppt-templates/ppt-1782137491946?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=ppt-ppt-1782137491946)
 
-📊 **[查看全部 349 套答辩 PPT 模板 →](https://bishe.xiaoqiangku.com/ppt-templates?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=ppt-all)**
-
-> 👉 **访问官网：** [https://bishe.xiaoqiangku.com](https://bishe.xiaoqiangku.com?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=cta-home) · [精品源码](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=cta-projects) · [答辩 PPT](https://bishe.xiaoqiangku.com/ppt-templates?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=cta-ppt) · [定制咨询](https://bishe.xiaoqiangku.com/custom?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=cta-custom) · 微信 **qzkfqg**
+📊 **[查看全部 349 套答辩 PPT →](https://bishe.xiaoqiangku.com/ppt-templates?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=ppt-all)**
 
 ## 常见毕业设计错误及解决方案
 
-- **MySQL 导入报错 `Unknown collation: utf8mb4_0900_ai_ci`**：目标库版本低于 8.0，可将排序规则改为 `utf8mb4_general_ci`
-- **Spring Boot 找不到主类**：检查 `pom.xml` 的 `mainClass` 与包名是否一致
-- **前端 `npm install` 失败**：切换 Node 18+，或使用 `pnpm` / 国内镜像
-- **跨域 / 接口 404**：核对后端端口与前端 `.env` 中 `API_BASE_URL`
-- **Sa-Token 未登录**：确认请求头携带 `Authorization` 或 Cookie 中的 token
-- **上传文件无法访问**：检查 OSS 或本地 `file` 静态资源映射配置
+- **MySQL 导入报错 `Unknown collation: utf8mb4_0900_ai_ci`**：目标库低于 8.0，改为 `utf8mb4_general_ci`
+- **Spring Boot 找不到主类**：检查 `pom.xml` 的 `mainClass` 与包名
+- **前端 `npm install` 失败**：Node 18+，或使用 pnpm / 国内镜像
+- **跨域 / 接口 404**：核对后端端口与前端 `API_BASE_URL`
+- **Sa-Token 未登录**：确认请求头携带 token
+- **上传文件无法访问**：检查 OSS 或本地静态资源映射
 
-仍无法解决？添加微信 **qzkfqg** 或 [提交定制/部署咨询](https://bishe.xiaoqiangku.com/custom?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=faq-custom)，我们协助远程排查。
+仍无法解决？微信 **qzkfqg** 或 [提交咨询](https://bishe.xiaoqiangku.com/custom?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=faq-custom)，协助远程排查。
 
 ---
 
 ## 🌐 访问官网
 
-**[小强库计算机毕业设计](https://bishe.xiaoqiangku.com?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=footer-home)** — 毕设源码 · 答辩 PPT · 部署指导 · 定制开发
+**[小强库计算机毕业设计](https://bishe.xiaoqiangku.com?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=footer-home)** — 成品也能改 · 毕设源码 · 答辩 PPT · 部署指导 · 定制开发
 
 | 入口 | 链接 |
 |------|------|
-| 精品源码 | [https://bishe.xiaoqiangku.com/projects](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=footer-projects) |
-| 答辩 PPT | [https://bishe.xiaoqiangku.com/ppt-templates](https://bishe.xiaoqiangku.com/ppt-templates?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=footer-ppt) |
-| 定制服务 | [https://bishe.xiaoqiangku.com/custom](https://bishe.xiaoqiangku.com/custom?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=footer-custom) |
-| 关于我们 | [https://bishe.xiaoqiangku.com/about](https://bishe.xiaoqiangku.com/about?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=footer-about) |
+| 精品源码 (3+) | [进入](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=footer-projects) |
+| 答辩 PPT (349 套) | [进入](https://bishe.xiaoqiangku.com/ppt-templates?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=footer-ppt) |
+| 定制服务 | [进入](https://bishe.xiaoqiangku.com/custom?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=footer-custom) |
+| 关于我们 | [进入](https://bishe.xiaoqiangku.com/about?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=footer-about) |
 
 咨询微信：**qzkfqg** · QQ：[1151483791](https://wpa.qq.com/msgrd?v=3&uin=1151483791&site=qq&menu=yes) · CSDN：[blog.csdn.net/shaotianqiang](http://blog.csdn.net/shaotianqiang)
