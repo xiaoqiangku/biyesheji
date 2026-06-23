@@ -27,11 +27,11 @@
 
 ## 精品源码
 
-以下项目均已发布，包含 **源码 + 数据库 + 部署文档 + 界面截图 + 远程协助**。点击标题进入详情页。
+以下项目均已发布，包含 **源码 + 数据库 + 部署文档 + 界面截图 + 远程协助**。点击名称进入 [精品源码中心](https://bishe.xiaoqiangku.com/projects) 查看详情与演示。
 
-- 【精选】[基于 Spring Boot + Vue3 的课程作业管理系统(三端分离 · 含源码与 SQL · 支持答辩演示与二次开发)](https://bishe.xiaoqiangku.com/project/course-homework-management-system)
-- 【精选】[基于 Spring Boot + Vue3 大学生入学审核系统(入学申请审核 · 学籍办理 · 信誉积分 · 含源码与 SQL)](https://bishe.xiaoqiangku.com/project/college-enrollment-audit-system)
-- 【精选】[基于 Spring Boot + Vue3 的月度员工绩效考核管理系统(绩效指标配置 · 月度考核评分 · 部门绩效统计 · 含源码与 SQL)](https://bishe.xiaoqiangku.com/project/monthly-employee-performance-management-system)
+- 【精选】[基于 Spring Boot + Vue3 的课程作业管理系统(三端分离 · 含源码与 SQL · 支持答辩演示与二次开发)](https://bishe.xiaoqiangku.com/projects)
+- 【精选】[基于 Spring Boot + Vue3 大学生入学审核系统(入学申请审核 · 学籍办理 · 信誉积分 · 含源码与 SQL)](https://bishe.xiaoqiangku.com/projects)
+- 【精选】[基于 Spring Boot + Vue3 的月度员工绩效考核管理系统(绩效指标配置 · 月度考核评分 · 部门绩效统计 · 含源码与 SQL)](https://bishe.xiaoqiangku.com/projects)
 
 ## 答辩 PPT 模板
 
