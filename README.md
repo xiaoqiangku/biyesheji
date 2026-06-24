@@ -5,7 +5,7 @@
 ![Vue3](https://img.shields.io/badge/Vue3-技术-red)
 ![MySQL](https://img.shields.io/badge/MySQL-数据库-red)
 ![答辩PPT](https://img.shields.io/badge/答辩PPT-349套-green)
-![精品项目](https://img.shields.io/badge/精品项目-8个-orange)
+![精品项目](https://img.shields.io/badge/精品项目-7个-orange)
 
 <p align="center">
   <a href="https://bishe.xiaoqiangku.com?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=hero-banner">
@@ -29,7 +29,6 @@
 
 <p align="center">
   <a href="https://bishe.xiaoqiangku.com/project/bs-1-7?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=hero-thumb-bs-1-7"><img src="https://xiaoqiangku-all.oss-cn-beijing.aliyuncs.com/20260624/178227292767325609/封面.png" alt="基于 Spring Boot + Vue3 的校园管理系统" width="30%" /></a>
-  <a href="https://bishe.xiaoqiangku.com/project/bs-1-8?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=hero-thumb-bs-1-8"><img src="https://xiaoqiangku-all.oss-cn-beijing.aliyuncs.com/20260624/178231178379580097/封面.png" alt="基于 Spring Boot + Vue3 的在线视频教育平台" width="30%" /></a>
 </p>
 
 ## 简介（点击 Star 获取持续更新）
@@ -54,7 +53,7 @@
 
 ## 精品源码
 
-以下 **8** 个项目已发布。[浏览全部 →](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=projects-hub)
+以下 **7** 个项目已发布。[浏览全部 →](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=projects-hub)
 
 ### 【精选】基于 Spring Boot + Vue3 的课程作业管理系统
 
@@ -90,7 +89,7 @@
 
 [![基于 Spring Boot + Vue3 的学生心理咨询评估系统](https://xiaoqiangku-all.oss-cn-beijing.aliyuncs.com/20260623/178222244602536521/封面.png)](https://bishe.xiaoqiangku.com/project/bs-1-3?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=project-bs-1-3)
 
-*理量表在线评估 · 咨询预约与排班 · 咨询记录归档 · 含源码与 SQL*
+*心理量表在线评估 · 咨询预约与排班 · 咨询记录归档 · 含源码与 SQL*
 
 > 本系统面向高校学生心理健康服务场景，覆盖管理员、咨询师、学生三端，实现心理评估量表配置与在线作答、咨询师排班与预约确认、咨询过程记录归档，以及文章资讯与系统公告等内容运营。业务链路从自助评估延伸到预约咨询与记录留存，适合展示多角色数据隔离与状态流转的计算机…
 
@@ -122,19 +121,9 @@
 
 *院校与单位档案 · 通知推送回复 · 投票统计与图表分析 · 含源码与 SQL*
 
-> 本系统面向高校与院校日常综合管理场景，覆盖系统管理员、院校管理员、用户（学生）三端，实现院校档案维护、用户与单位绑定、通知推送与师生回复、候选人投票统计及多维度数据看板。业务链路清晰、角色数据范围分明，适合展示多角色权限划分与校园信息管理的计算机…
+> 本系统面向高校与院校日常综合管理场景，覆盖系统管理员、院校管理员、用户（学生）三端，实现院校档案维护、用户与单位绑定、通知推送与师生回复、候选人投票统计及多维度数据看板。业务链路清晰、角色数据范围分明，适合展示多角色权限划分与校园信息管理的…
 
 **[👉 查看详情 · 在线演示 · 交付清单](https://bishe.xiaoqiangku.com/project/bs-1-7?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=project-bs-1-7)**
-
-### 【精选】基于 Spring Boot + Vue3 的在线视频教育平台
-
-[![基于 Spring Boot + Vue3 的在线视频教育平台](https://xiaoqiangku-all.oss-cn-beijing.aliyuncs.com/20260624/178231178379580097/封面.png)](https://bishe.xiaoqiangku.com/project/bs-1-8?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=project-bs-1-8)
-
-*课程审核上架 · 章节视频学习 · 购物车模拟支付 · 三端订单统计 · 含源码与 SQL*
-
-> 本系统面向在线视频教育场景，覆盖管理员、教师、学生三端，实现课程类型与轮播运营、教师发布课程与章节视频、管理员审核上架、学生浏览选课、购物车结算、模拟支付、订单管理与学习评论等完整业务闭环。采用前后端分离架构，适合展示多角色权限、电商式购课流程与数据可视化统计的计算机…
-
-**[👉 查看详情 · 在线演示 · 交付清单](https://bishe.xiaoqiangku.com/project/bs-1-8?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=project-bs-1-8)**
 
 📦 **[浏览更多毕设项目 →](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=projects-more)**
 
@@ -222,7 +211,7 @@
 
 | 入口 | 链接 |
 |------|------|
-| 精品源码 (8) | [进入](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=footer-projects) |
+| 精品源码 (7) | [进入](https://bishe.xiaoqiangku.com/projects?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=footer-projects) |
 | 答辩 PPT (349 套) | [进入](https://bishe.xiaoqiangku.com/ppt-templates?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=footer-ppt) |
 | 定制服务 | [进入](https://bishe.xiaoqiangku.com/custom?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=footer-custom) |
 | 关于我们 | [进入](https://bishe.xiaoqiangku.com/about?utm_source=github&utm_medium=readme&utm_campaign=biyesheji&utm_content=footer-about) |
